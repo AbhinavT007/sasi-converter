@@ -4,11 +4,11 @@
   "description": "A project for converting data formats",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test":"jest"
   },
   "author": "Sasi",
   "license": "MIT",
-  "dependencies": {
-    "node": "^22.13.0"
-  }
+  "dependencies": {}
 }
+
