@@ -1,0 +1,14 @@
+{
+  "name": "sasi-converter",
+  "version": "1.0.0",
+  "description": "A project for converting data formats",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sasi",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^22.13.0"
+  }
+}
