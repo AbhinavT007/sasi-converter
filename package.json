@@ -5,10 +5,11 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test":"jest"
+    "test": "jest"
   },
   "author": "Sasi",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
-

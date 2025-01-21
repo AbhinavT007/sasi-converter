@@ -6,4 +6,5 @@ throw "Invalid amount";
 return (inr / EXCHANGE_RATE).toFixed(2);
 }
 }
-module.exports = convert;#converteh m d
+module.exports = convert;
+
